@@ -5,3 +5,10 @@ __pycache__/
 Model/
 mp3/
 .vscode/
+
+# Ajouts importants
+build/
+dist/
+*.mp3
+*.spec
+Interface/Interface.html
