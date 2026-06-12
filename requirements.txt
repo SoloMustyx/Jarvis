@@ -1,0 +1,14 @@
+#  J.A.R.V.I.S — dépendances Python
+#  Installer tout d'un coup : pip install -r requirements.txt
+
+
+
+vosk
+sounddevice
+pygame
+edge-tts
+pywebview
+flask
+requests
+wmi
+tapo

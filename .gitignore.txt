@@ -1,0 +1,7 @@
+# Fichiers à NE PAS envoyer sur GitHub
+comptes.json
+__pycache__/
+*.pyc
+Model/
+mp3/
+.vscode/
